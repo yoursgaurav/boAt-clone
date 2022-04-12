@@ -1,0 +1,16 @@
+** ========== Image Resources ========== **
+
+Favicon URL: //cdn.shopify.com/s/files/1/0057/8938/4802/files/32x32.png?v=1587196217
+Brand Logo URL: https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Boat-Logo_200x_137f5a28-b960-4963-b1fd-e91c60e436a9_200x.png?v=1640587883
+
+Slider Image 1 URL: https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Banner-swb-web_1512x.jpg?v=1649337310
+Slider Image 2 URL: https://cdn.shopify.com/s/files/1/0057/8938/4802/files/WEB_faa3c2e5-2924-420b-81e0-732f9b886b15_1512x.jpg?v=1649142801
+Slider Image 3 URL: https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Rockerz-235-pro--wBanner_8ce324f1-3bdb-4310-b55c-7ce2f249eeb3_1512x.jpg?v=1649244210
+Slider Image 4 URl: https://cdn.shopify.com/s/files/1/0057/8938/4802/files/ad411ANC_85d325c2-656e-45f2-ac75-37bb2f3098b4_1512x.jpg?v=1648453347
+
+** ========== Theme Colours ========== **
+Red Colour: #ff0000
+Black Colour: #000000
+
+** ========== Font Families ========== **
+Font Family: Montserrat, sans serif
