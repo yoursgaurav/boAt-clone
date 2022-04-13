@@ -53,13 +53,25 @@ body {
     text-decoration: none;
     color: var(--faded-color);
     font-size: 15px;
+    font-weight: 500;
 }
 
 .activeLink {
-    color: var(--white-color);
+    color: var(--white-color) !important;
 }
 
 #search {
     border-radius: 1rem;
     padding: 5px 10px;
+}
+
+.ctaButtons {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.iconBox {
+    margin: 0 1rem;
+    color: var(--white-color);
 }
