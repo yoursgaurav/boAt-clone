@@ -41,7 +41,7 @@ body {
 }
 
 .nav-menu li {
-    padding: 0 1rem;
+    padding: 0 0.8rem;
     list-style: none;
 }
 
@@ -56,11 +56,17 @@ body {
     font-weight: 500;
 }
 
+.nav-menu li a:hover {
+    color: var(--white-color);
+    transition: all 0.3s ease-in-out;
+}
+
 .activeLink {
     color: var(--white-color) !important;
 }
 
 #search {
+    border-color: transparent;
     border-radius: 1rem;
     padding: 5px 10px;
 }
@@ -74,4 +80,9 @@ body {
 .iconBox {
     margin: 0 1rem;
     color: var(--white-color);
+    cursor: pointer;
+}
+
+.iconBox i {
+    margin: 0 0.2rem;
 }
