@@ -13,6 +13,10 @@ body {
     background-color: var(--black-color);
 }
 
+.wrapper {
+    max-height: 100vh;
+}
+
 .alert {
     background-color: var(--red-color);
     color: var(--white-color);
@@ -98,8 +102,19 @@ body {
     right: 1rem;
 }
 
-.tagLine{
+.tagLine {
     color: var(--white-color);
     font-size: 2rem;
     font-weight: 500;
+}
+
+.tagLine span {
+    color: transparent;
+    -webkit-text-stroke: 1px var(--white-color);
+}
+
+div, marquee span::selection {
+    background-color: var(--black-color);
+    color: var(--white-color);
+    -webkit-text-stroke: 0px;
 }
